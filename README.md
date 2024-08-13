@@ -357,7 +357,7 @@ void sendSMS(String message) {
 ```
 
 ## Demo 
-![Demo Photo](Circuit_Diagram.png)
+![Demo Photo](demo-photo.png)
 ![Watch Demo](Demo-photo-vedio.png)
 
 ## Conclusion
