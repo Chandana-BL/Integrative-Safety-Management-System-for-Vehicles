@@ -357,8 +357,8 @@ void sendSMS(String message) {
 ```
 
 ## Demo 
-
-![Circuit Diagram](Demo-photo-vedio.png)
+![Demo Photo](Circuit_Diagram.png)
+![Watch Demo](Demo-photo-vedio.png)
 
 ## Conclusion
 The Integrative Safety Management System effectively enhances vehicle safety by addressing key issues such as impaired driving, accident management, and pedestrian safety. The combination of alcohol detection, GSM-based accident assistance, and ultrasonic-based pedestrian safety provides a comprehensive solution to improve overall road safety. Future improvements could include integrating additional sensors, refining algorithms for better accuracy, and enhancing user interfaces.
