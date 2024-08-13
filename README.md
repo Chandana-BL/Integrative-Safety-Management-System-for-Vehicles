@@ -35,11 +35,9 @@ The circuit diagram involves connecting the sensors and modules to the microcont
 - **Ultrasonic Sensor**: Trigger and Echo pins connected to digital I/O pins on the microcontroller
 - **Relay Module**: Controlled by a digital output pin from the microcontroller
 
-![Circuit Diagram](path/to/your/circuit-diagram.png)
+![Circuit Diagram](Circuit_Diagram.png)
 
 ## Code
-The code is divided into different modules for each component. Here's a high-level overview:
-
 ### Integrative solution code 
 ```cpp
 #include <SoftwareSerial.h>
@@ -358,7 +356,9 @@ void sendSMS(String message) {
 }
 ```
 
+## Demo 
 
+![Circuit Diagram](Demo-photo-vedio.png)
 
 ## Conclusion
 The Integrative Safety Management System effectively enhances vehicle safety by addressing key issues such as impaired driving, accident management, and pedestrian safety. The combination of alcohol detection, GSM-based accident assistance, and ultrasonic-based pedestrian safety provides a comprehensive solution to improve overall road safety. Future improvements could include integrating additional sensors, refining algorithms for better accuracy, and enhancing user interfaces.
